@@ -1,7 +1,5 @@
 ﻿# Our Collaborative Project
 Created by: MED-AMINE0001
 
-Collaborator: hamzaazzahr
-# git add project-info.txt
-# git commit -m "Add collaborator info"
-# git push origin main
+
+

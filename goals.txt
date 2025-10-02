@@ -1,0 +1,3 @@
+# Project Goals
+1. Learn Git collaborattion
+2. Practice conflict resolution

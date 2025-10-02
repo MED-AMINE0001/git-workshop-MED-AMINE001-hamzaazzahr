@@ -1,4 +1,4 @@
 # Project Goals
-1. Master Git collaboration
-2. Practice conflict resolution
-3. Learn branching strategies
+1. Learn Git collaborattion thoroughly
+2. Practice conflict resolution like pros
+3. Learn branching and merge strategies
